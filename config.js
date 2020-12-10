@@ -230,7 +230,7 @@ var config = {
           id: 'id-neighborhood-2',
           title: 'But what do these neighborhoods look like?',
           image: './images/englewood-corner.jpg',
-          description: 'This is Englewood, another neighbordhood facing high rates of eviction and rent burden.',
+          description: 'This is Englewood, another neighborhood facing high rates of eviction and rent burden.',
           location: {
               center: [-87.560, 41.823],
               zoom: 11,
